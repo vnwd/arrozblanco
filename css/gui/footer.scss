@@ -1,0 +1,14 @@
+/*Specifications for very nice web design footer*/
+footer {
+  position: fixed;
+  right: 1.5em;
+  bottom: 1em;
+  z-index: 3;
+  background-color: white;
+  border-radius: 50%;
+  width: 6%;
+  padding: 0.25em;
+  img {
+    width: 80%;
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_id" : "borders",
+  "price": 20.00,
+  "quantities" : {
+    "small" : 0,
+    "medium" : 18,
+    "large" : 37,
+    "xl" : 10,
+    "xxl" : 3
+  }
+}
+{
+  "_id" : "estoy_pelao",
+  "price": 20.00,
+  "quantities" : {
+    "small" : 3,
+    "medium" : 22,
+    "large" : 20,
+    "xl" : 7,
+    "xxl" : 1
+  }
+}
+{
+  "_id" : "arigatas",
+  "price": 20.00,
+  "quantities" : {
+    "small" : 7,
+    "medium" : 39,
+    "large" : 24,
+    "xl" : 16,
+    "xxl" : 4
+  }
+}
+{
+  "_id" : "pelear",
+  "price": 20.00,
+  "quantities" : {
+    "small" : 4,
+    "medium" : 16,
+    "large" : 18,
+    "xl" : 3,
+    "xxl" : 5
+  }
+}
+{
+  "_id" : "hiragana",
+  "price": 20.00,
+  "quantities" : {
+    "small" : 1,
+    "medium" : 12,
+    "large" : 18,
+    "xl" : 3,
+    "xxl" : 4
+  }
+}
+{
+  "_id" : "gameboy",
+  "price": 20.00,
+  "quantities" : {
+    "small" : 4,
+    "medium" : 11,
+    "large" : 16,
+    "xl" : 7,
+    "xxl" : 4
+  }
+}

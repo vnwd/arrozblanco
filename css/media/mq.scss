@@ -1,0 +1,7 @@
+@media (min-width: 32em) {
+  @import "min-width-32em"
+}
+@media (min-width: 62em), (orientation: landscape) {
+  @import "min-width-1000px"
+}
+

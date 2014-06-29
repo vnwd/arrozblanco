@@ -1,0 +1,27 @@
+body {
+  background-color: #FF0000;
+  text-align: center;
+  width: 100%;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  img {
+    margin: 0px auto;
+    max-width: 100%;
+    //padding-top: 20%;
+  }
+  h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 4em;
+    color: white;
+    text-decoration: underline;
+  }
+  input {
+    height: 4em;
+    width: 40%;
+    display: inline-block;
+    margin-bottom: 2%;
+    #search {
+      width: 10em; 
+    }
+  }
+}
